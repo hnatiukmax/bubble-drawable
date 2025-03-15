@@ -13,7 +13,11 @@ Bubble Drawable is a custom Android drawable that allows you to create bubble-li
 
 
 ## Demo
-![bubble.png](demo/bubble.png)
+## Demo
+<p align="center">
+  <img src="demo/bubble.png" alt="Bubble" width="300">
+</p>
+
 
 ## How to use
 
